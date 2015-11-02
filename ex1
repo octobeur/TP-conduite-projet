@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
+#define N 8
+
 
 void somme_diag1(int mat[N][N])
 {
